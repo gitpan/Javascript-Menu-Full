@@ -2,9 +2,11 @@ Changes
 Makefile.PL
 MANIFEST
 Javascript/Menu.pm
-NumberedTree.pm
-NumberedTree/DBTree.pm
+Tree/Numbered.pm
+Tree/Numbered/DB.pm
 README
 t/1.t
 t/2.t
 t/3.t
+examples/nav_ex.pl
+examples/action_ex.pl
