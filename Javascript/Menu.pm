@@ -9,7 +9,7 @@ use constant DEFAULT_STYLES => {caption => 'caption',
 				Mmenu => 'Mmenu', 
 				Smenu => 'Smenu'};
 
-our $VERSION = '2.01';
+our $VERSION = '2.01.1';
 our @ISA = qw(Tree::Numbered);
 
 # package stuff:

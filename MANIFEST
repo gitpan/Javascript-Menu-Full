@@ -10,3 +10,4 @@ t/2.t
 t/3.t
 examples/nav_ex.pl
 examples/action_ex.pl
+META.yml                                 Module meta-data (added by MakeMaker)
